@@ -1,0 +1,14 @@
+
+.title-photo{
+    background-image: url(./photos/e9a36755e30b1582285bd6a5d36a9d43.jpg);
+  
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    height: 800px;
+    width: 100%;
+}
+
+.hand{
+ height: 200px;
+}
